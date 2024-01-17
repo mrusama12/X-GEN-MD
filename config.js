@@ -25,11 +25,11 @@ import moment from 'moment-timezone'
 
 /*==============USER-INFO==============*/
 global.owner = [
-  ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
-  ['put your number', 'your-name', true] 
+  ['923225404375', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
+  ['put your number',923225404375 'your-name usama', true] 
 ] 
 
-global.mods = ['put-your-number','8801853262586'] //Don't replace this,If you want to add someone add any dev
+global.mods = ['put-your-number','923225404375] //Don't replace this,If you want to add someone add any dev
 global.prems = ['put-premium-user-number','']
 global.nomorbot = 'your-bot-number' //Change it to your own
 global.nomorown = 'owner-number' //Change it to your own
